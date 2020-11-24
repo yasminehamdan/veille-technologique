@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Veille Technologique de Yasmeen</title>
+    <link>http://yasminehamdan.github.io/</link>
+    <description>Recent content on Veille Technologique de Yasmeen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 24 Nov 2020 19:12:37 +0100</lastBuildDate><atom:link href="http://yasminehamdan.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Article3</title>
+      <link>http://yasminehamdan.github.io/posts/article3/</link>
+      <pubDate>Tue, 24 Nov 2020 19:12:37 +0100</pubDate>
+      
+      <guid>http://yasminehamdan.github.io/posts/article3/</guid>
+      <description>Ok j&amp;rsquo;ai capté</description>
+    </item>
+    
+    <item>
+      <title>Article2</title>
+      <link>http://yasminehamdan.github.io/posts/article2/</link>
+      <pubDate>Tue, 24 Nov 2020 19:12:08 +0100</pubDate>
+      
+      <guid>http://yasminehamdan.github.io/posts/article2/</guid>
+      <description>Alors voyons voir</description>
+    </item>
+    
+    <item>
+      <title>Article</title>
+      <link>http://yasminehamdan.github.io/posts/article/</link>
+      <pubDate>Tue, 24 Nov 2020 17:00:58 +0100</pubDate>
+      
+      <guid>http://yasminehamdan.github.io/posts/article/</guid>
+      <description>Voici mon premier article.
+Puis-je mettre une image</description>
+    </item>
+    
+    <item>
+      <title>My First Post</title>
+      <link>http://yasminehamdan.github.io/posts/my-first-post/</link>
+      <pubDate>Thu, 12 Nov 2020 11:53:30 +0100</pubDate>
+      
+      <guid>http://yasminehamdan.github.io/posts/my-first-post/</guid>
+      <description>My first post is about gender-non-conforming business
+https://uxdesign.cc/what-would-a-gender-non-conforming-business-look-like-deaabd700108</description>
+    </item>
+    
+  </channel>
+</rss>
